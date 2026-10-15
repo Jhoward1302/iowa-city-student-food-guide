@@ -1,1 +1,1 @@
-# iowacity-food
+# Iowa City Student Food Guide
