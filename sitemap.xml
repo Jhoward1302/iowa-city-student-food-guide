@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://jhoward1302.github.io/iowa-city-student-food-guide/</loc>
-  </url>
-  <url>
-    <loc>https://jhoward1302.github.io/iowa-city-student-food-guide/cheap-eats.html</loc>
-  </url>
-  <url>
-    <loc>https://jhoward1302.github.io/iowa-city-student-food-guide/student-deals.html</loc>
-  </url>
-  <url>
-    <loc>https://jhoward1302.github.io/iowa-city-student-food-guide/near-campus.html</loc>
-  </url>
+<url><loc>https://jhoward1302.github.io/iowa-city-student-food-guide/index.html</loc></url>
+<url><loc>https://jhoward1302.github.io/iowa-city-student-food-guide/menu.html</loc></url>
+<url><loc>https://jhoward1302.github.io/iowa-city-student-food-guide/about.html</loc></url>
+<url><loc>https://jhoward1302.github.io/iowa-city-student-food-guide/reservations.html</loc></url>
+<url><loc>https://jhoward1302.github.io/iowa-city-student-food-guide/contact.html</loc></url>
 </urlset>
