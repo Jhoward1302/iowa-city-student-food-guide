@@ -1,7 +1,5 @@
-# Herky Steakhouse
+# Herky Steakhouse — redesigned fictional website
 
-Fictional steakhouse website for MKTG:4400 at the University of Iowa.
+Five static pages for GitHub Pages. Includes homepage image carousel, printable-style interactive menu, local-only demo waitlist, AI-generated building visualization, sample hours and restaurant story. All restaurant details and pricing are fictional.
 
-Live site: https://jhoward1302.github.io/iowa-city-student-food-guide/
-
-All restaurant details are fictional. This is not a real business.
+Upload all files and the assets folder to the repository root. The waitlist is a client-side demo and sends no data. The building rendering is concept art, not a real property photograph.
