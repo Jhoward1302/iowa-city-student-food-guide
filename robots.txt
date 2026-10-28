@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
+
 Sitemap: https://jhoward1302.github.io/iowa-city-student-food-guide/sitemap.xml
