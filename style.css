@@ -73,17 +73,6 @@
 .menu-card-body small{font-size:.94rem;color:#c8beb3}
 .menu-card-action{font-weight:700;font-size:.78rem;letter-spacing:.1em;color:#d9b16d;margin-top:auto}
 .menu-landing-disclaimer{color:#a89c90;font-size:.82rem;margin-top:26px}
-.menu-preview-overlay{position:fixed;inset:0;background:rgba(0,0,0,.88);z-index:99999;display:none;padding:24px}
-.menu-preview-overlay.is-open{display:flex;align-items:center;justify-content:center}
-.menu-preview-dialog{width:min(1200px,100%);height:min(94vh,1000px);background:#171310;border:1px solid #92713d;display:flex;flex-direction:column;overflow:hidden}
-.menu-preview-toolbar{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:14px 20px;border-bottom:1px solid #584329;color:#fff}
-.menu-preview-toolbar strong{font-family:Georgia,serif;font-size:1.35rem}
-.menu-preview-actions{display:flex;flex-wrap:wrap;gap:8px}
-.menu-preview-actions button{background:#2b231c;color:#f5e5c8;border:1px solid #9c7a48;border-radius:3px;padding:9px 11px;cursor:pointer;font:inherit;font-size:.8rem}
-.menu-preview-actions button:hover{background:#6b4b27}
-.menu-preview-viewport{overflow:auto;flex:1;background:#110f0e}
-#menu-preview-scale{width:100%;height:100%;transform-origin:top left}
-#menu-preview-frame{display:block;width:100%;height:100%;min-height:650px;border:0;background:#110f0e}
 .menu-detail-layout{display:grid;grid-template-columns:1fr 1fr;gap:48px;align-items:start}
 .menu-detail-layout>img{width:100%;max-height:650px;object-fit:cover;border:1px solid #634a2c}
 .menu-detail-content h2{font-family:Georgia,serif;font-size:2.8rem;margin:10px 0 24px}
