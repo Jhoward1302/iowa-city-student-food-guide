@@ -1,0 +1,1 @@
+Lunch PDF integration: menu.html Lunch Menu card opens Herky_Steakhouse_Lunch_Menu.pdf in a new tab. All other pages and menu previews remain unchanged. Fictional prices and dishes are concept proposals. Upload the entire folder to preserve links.
