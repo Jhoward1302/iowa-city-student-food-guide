@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://jhoward1302.github.io/iowa-city-student-food-guide/index.html</loc></url>
-<url><loc>https://jhoward1302.github.io/iowa-city-student-food-guide/menu.html</loc></url>
-<url><loc>https://jhoward1302.github.io/iowa-city-student-food-guide/about.html</loc></url>
-<url><loc>https://jhoward1302.github.io/iowa-city-student-food-guide/reservations.html</loc></url>
-<url><loc>https://jhoward1302.github.io/iowa-city-student-food-guide/contact.html</loc></url>
+  <url><loc>https://jhoward1302.github.io/iowa-city-student-food-guide/about.html</loc></url>
+  <url><loc>https://jhoward1302.github.io/iowa-city-student-food-guide/booking.html</loc></url>
+  <url><loc>https://jhoward1302.github.io/iowa-city-student-food-guide/careers.html</loc></url>
+  <url><loc>https://jhoward1302.github.io/iowa-city-student-food-guide/community.html</loc></url>
+  <url><loc>https://jhoward1302.github.io/iowa-city-student-food-guide/contact.html</loc></url>
+  <url><loc>https://jhoward1302.github.io/iowa-city-student-food-guide/drinks.html</loc></url>
+  <url><loc>https://jhoward1302.github.io/iowa-city-student-food-guide/events.html</loc></url>
+  <url><loc>https://jhoward1302.github.io/iowa-city-student-food-guide/giftcards.html</loc></url>
+  <url><loc>https://jhoward1302.github.io/iowa-city-student-food-guide/happenings.html</loc></url>
+  <url><loc>https://jhoward1302.github.io/iowa-city-student-food-guide/index.html</loc></url>
+  <url><loc>https://jhoward1302.github.io/iowa-city-student-food-guide/kids.html</loc></url>
+  <url><loc>https://jhoward1302.github.io/iowa-city-student-food-guide/lunch.html</loc></url>
+  <url><loc>https://jhoward1302.github.io/iowa-city-student-food-guide/menu.html</loc></url>
+  <url><loc>https://jhoward1302.github.io/iowa-city-student-food-guide/ordering.html</loc></url>
+  <url><loc>https://jhoward1302.github.io/iowa-city-student-food-guide/reservations.html</loc></url>
+  <url><loc>https://jhoward1302.github.io/iowa-city-student-food-guide/rewards.html</loc></url>
 </urlset>
