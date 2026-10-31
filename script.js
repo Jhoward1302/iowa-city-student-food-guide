@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded',()=>{
  let zoom=1,oldFocus=null;
  const apply=()=>{scaleEl.style.transform=`scale(${zoom})`;scaleEl.style.width=`${100/zoom}%`;scaleEl.style.height=`${100/zoom}%`};
  const close=()=>{overlay.classList.remove('is-open');overlay.setAttribute('aria-hidden','true');frame.src='about:blank';document.body.style.overflow='';if(oldFocus)oldFocus.focus()};
- document.querySelectorAll('.menu-card-trigger').forEach(button=>button.addEventListener('click',()=>{oldFocus=button;title.textContent=button.dataset.menuTitle;frame.src=button.dataset.menuSrc;zoom=1;apply();overlay.classList.add('is-open');overlay.setAttribute('aria-hidden','false');document.body.style.overflow='hidden';document.getElementById('menu-preview-close').focus()}));
+ document.querySelectorAll('button.menu-card-trigger[data-menu-src]').forEach(button=>button.addEventListener('click',()=>{oldFocus=button;title.textContent=button.dataset.menuTitle;frame.src=button.dataset.menuSrc;zoom=1;apply();overlay.classList.add('is-open');overlay.setAttribute('aria-hidden','false');document.body.style.overflow='hidden';document.getElementById('menu-preview-close').focus()}));
  document.getElementById('menu-preview-close').addEventListener('click',close);
  document.getElementById('menu-preview-plus').addEventListener('click',()=>{zoom=Math.min(2,Math.round((zoom+.15)*100)/100);apply()});
  document.getElementById('menu-preview-minus').addEventListener('click',()=>{zoom=Math.max(.65,Math.round((zoom-.15)*100)/100);apply()});
