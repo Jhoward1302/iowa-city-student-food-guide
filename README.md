@@ -12,3 +12,10 @@ The uploaded homepage was named `index(2).html`; it has been correctly renamed t
 
 ## Critical D3 reminder
 This is a **working draft**. Review all fictional details and validate on desktop/mobile before publishing. Do not start the A/B test yet. The required `ab-test-plan.md` must be committed before data collection during the week of November 9, with launch by November 17. Publish the experiment variant separately with `noindex` or canonical, and keep it out of the sitemap. Google Search Console evidence must be collected separately.
+
+
+## 2.2 homepage revision
+- Removed Visit dropdown; kept Join Waitlist CTA on all pages.
+- Updated homepage to 10 carousel slides, three featured favorites, shortened copy, consistent footer and more useful links.
+- Photography is TEMPORARY reference imagery. New cohesive, original photo assets (including ribbon-cutting scene) must be created and approved before final publication. No fictional opening is represented as a real event.
+- Verify responsive layouts, accessibility, pricing consistency, image licenses and links before final submission.
